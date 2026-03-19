@@ -1,4 +1,19 @@
-## Hi there 👋
+Hi there 👋
+# Rishabh Singh
+### ECE Year 1 · BITS Pilani Dubai Campus
+
+> Building **Aether-Flow** — AI-driven predictive thermal management system
+> that predicts heat 15–30s ahead using TFT model on Raspberry Pi 5
+
+## Current Project
+**[Aether-Flow](https://github.com/singhhrishabh/Aether-flow)** —
+AI + ESP32 + Peltier cooling · TFLite on-device inference · Fully offline
+
+## Skills
+`C++` `Python` `Arduino` `ESP32` `Raspberry Pi` `TensorFlow Lite` `PID Control`
+
+## Live Demo
+[singhhrishabh.github.io/Aether-flow](https://singhhrishabh.github.io/Aether-flow/)## 
 
 <!--
 **singhhrishabh/singhhrishabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
