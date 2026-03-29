@@ -5,7 +5,7 @@ Hi there 👋
 > Building **Aether-Flow** — AI-driven predictive thermal management system
 > that predicts heat 15–30s ahead using TFT model on Raspberry Pi 5
 
-## Current Project
+## Current Projects 
 **[Aether-Flow](https://github.com/singhhrishabh/Aether-flow)** —
 AI + ESP32 + Peltier cooling · TFLite on-device inference · Fully offline
 
@@ -15,6 +15,8 @@ AI + ESP32 + Peltier cooling · TFLite on-device inference · Fully offline
 ## Live Demo
 [singhhrishabh.github.io/Aether-flow](https://singhhrishabh.github.io/Aether-flow/)## 
 
+---
+
 ## ☀ GitScore — My Developer Rating
 
 Check out my GitHub analysis tool:
@@ -23,6 +25,16 @@ Check out my GitHub analysis tool:
 
 > Analyzes stars, forks, commits, repo health and generates a personal **Light score out of 9**.
 
+---
+
+# 📦 LocalMart — Local se Local
+
+> **Your mohalla, now in your pocket.**  
+> Hyperlocal commerce connecting shops, street food stalls, home services, and package carriers — all within 2–4km. Built for real local markets, not just cities.
+
+ For Live Demo ( https://singhhrishabh.github.io/Local-Mart/ )
+
+---
 
 <!--
 **singhhrishabh/singhhrishabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
