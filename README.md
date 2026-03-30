@@ -35,6 +35,18 @@ Check out my GitHub analysis tool:
  For Live Demo ( https://singhhrishabh.github.io/Local-Mart/ )
 
 ---
+# 🧠 AlphaAI — AI-Native Hedge Fund Platform
+
+**A multi-agent AI investment analysis system that analyzes market data, fundamentals, sentiment, and risk to generate actionable BUY/SELL/HOLD signals.**
+
+</div>
+
+> ⚠️ **Disclaimer:** This project is for **educational and research purposes only**. It does NOT constitute financial advice. Do NOT trade real money based on these signals without professional guidance.
+> 
+For real time Stock Analysis[https://alphaai-mdta.onrender.com/]
+For Static WEB page[https://singhhrishabh.github.io/AlphaAI/]
+
+---
 
 <!--
 **singhhrishabh/singhhrishabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
