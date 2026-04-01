@@ -32,7 +32,7 @@ Check out my GitHub analysis tool:
 > **Your mohalla, now in your pocket.**  
 > Hyperlocal commerce connecting shops, street food stalls, home services, and package carriers — all within 2–4km. Built for real local markets, not just cities.
 
- For Live Demo ( https://singhhrishabh.github.io/Local-Mart/ )
+ For Live Demo ( http://localhost:8080 )
 
 ---
 # 🧠 AlphaAI — AI-Native Hedge Fund Platform
