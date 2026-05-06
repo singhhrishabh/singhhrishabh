@@ -6,16 +6,6 @@ Hi there 👋
 > that predicts heat 15–30s ahead using TFT model on Raspberry Pi 5
 
 ## Current Projects 
-**[Aether-Flow](https://github.com/singhhrishabh/Aether-flow)** —
-AI + ESP32 + Peltier cooling · TFLite on-device inference · Fully offline
-
-## Skills
-`C++` `Python` `Arduino` `ESP32` `Raspberry Pi` `TensorFlow Lite` `PID Control`
-
-## Live Demo
-[singhhrishabh.github.io/Aether-flow](https://singhhrishabh.github.io/Aether-flow/)## 
-
----
 
 ## ☀ GitScore — My Developer Rating
 
