@@ -2,9 +2,6 @@ Hi there 👋
 # Rishabh Singh
 ### ECE Year 1 · BITS Pilani Dubai Campus
 
-> Building **Aether-Flow** — AI-driven predictive thermal management system
-> that predicts heat 15–30s ahead using TFT model on Raspberry Pi 5
-
 ## Current Projects 
 
 ## ☀ GitScore — My Developer Rating
